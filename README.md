@@ -29,3 +29,6 @@ The final structure will be:
 - Pasting the link directly to someone will bypass the login
 
 > Credit to [@matteobrusa](https://github.com/matteobrusa/Password-protection-for-static-pages) for his initial findings and implementation.
+
+
+[![Jekyll site CI](https://github.com/sun816/nav2netlify/actions/workflows/jekyll.yml/badge.svg)](https://github.com/sun816/nav2netlify/actions/workflows/jekyll.yml)
